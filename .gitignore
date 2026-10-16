@@ -6,5 +6,5 @@ __pycache__/
 .venv/
 venv/
 
-# Local data files
+# Local data files (keep charts/ and output/ so they show on GitHub)
 data/
